@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/prefix1">
-        <file>image002.jpg</file>
-        <file>fondodatos.jpg!w700wp</file>
-    </qresource>
-</RCC>
