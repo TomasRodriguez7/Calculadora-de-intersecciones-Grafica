@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>image002.jpg</file>
+        <file>fondodatos.jpg</file>
+        <file>cerca-formulas-matematicas-pizarra_493343-2839.jpg</file>
+        <file>fondo_tabla_real.jpg</file>
+    </qresource>
+</RCC>
